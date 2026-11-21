@@ -1,6 +1,6 @@
 <div align="center">
 
-# Waveform Player for Vue
+# WaveformPlayer for Vue
 
 **A Vue 3 component wrapper for [`@arraypress/waveform-player`](https://github.com/WaveformPlayer/waveform-player).**
 Typed props for every option, lifecycle `@events`, an exposed imperative API, and SSR-safe mounting.
