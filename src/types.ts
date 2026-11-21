@@ -19,7 +19,7 @@
  *   - `WaveformPlayerExpose` — the imperative API exposed through a
  *     template `ref` (`loadTrack`, `seekTo`, `setVolume`, …).
  *
- * @see {@link https://github.com/arraypress/waveform-player} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-player} — core library
  */
 import type {
 	WaveformPlayer,
